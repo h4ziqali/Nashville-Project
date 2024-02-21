@@ -1,3 +1,5 @@
+--IN THIS PROJECT, I FOCUS ON DATA CLEANING FOR HOUSING IN NASHVILLE AREA. cc to Alex the Analyst
+
 Select *
 From PorfolioProject..Nashville
 
